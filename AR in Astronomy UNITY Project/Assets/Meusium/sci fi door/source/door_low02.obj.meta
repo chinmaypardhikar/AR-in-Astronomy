@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 428af314798020146949425e71bb4c97
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door_low_bottom_door_low
+    100004: door_low_commande_door_low
+    100006: door_low_commande_low
+    100008: door_low_commande_support_low
+    100010: door_low_frame_low
+    100012: door_low_front_pipe_low
+    100014: door_low_levier_low
+    100016: door_low_mid_frame_low
+    100018: door_low_plate_pied_low
+    100020: door_low_top_door_low
+    100022: door_low_top_pipe_low
+    100024: door_low_wall_low
+    100026: top_low_door_low
+    400000: //RootNode
+    400002: door_low_bottom_door_low
+    400004: door_low_commande_door_low
+    400006: door_low_commande_low
+    400008: door_low_commande_support_low
+    400010: door_low_frame_low
+    400012: door_low_front_pipe_low
+    400014: door_low_levier_low
+    400016: door_low_mid_frame_low
+    400018: door_low_plate_pied_low
+    400020: door_low_top_door_low
+    400022: door_low_top_pipe_low
+    400024: door_low_wall_low
+    400026: top_low_door_low
+    2100000: door_low_bottom_door_lowMat
+    2100002: door_low_commande_door_lowMat
+    2100004: door_low_commande_lowMat
+    2100006: door_low_commande_support_lowMat
+    2100008: door_low_frame_lowMat
+    2100010: door_low_front_pipe_lowMat
+    2100012: door_low_levier_lowMat
+    2100014: door_low_mid_frame_lowMat
+    2100016: door_low_plate_pied_lowMat
+    2100018: door_low_top_door_lowMat
+    2100020: door_low_top_pipe_lowMat
+    2100022: door_low_wall_lowMat
+    2100024: top_low_door_lowMat
+    2300000: door_low_bottom_door_low
+    2300002: door_low_commande_door_low
+    2300004: door_low_commande_low
+    2300006: door_low_commande_support_low
+    2300008: door_low_frame_low
+    2300010: door_low_front_pipe_low
+    2300012: door_low_levier_low
+    2300014: door_low_mid_frame_low
+    2300016: door_low_plate_pied_low
+    2300018: door_low_top_door_low
+    2300020: door_low_top_pipe_low
+    2300022: door_low_wall_low
+    2300024: top_low_door_low
+    3300000: door_low_bottom_door_low
+    3300002: door_low_commande_door_low
+    3300004: door_low_commande_low
+    3300006: door_low_commande_support_low
+    3300008: door_low_frame_low
+    3300010: door_low_front_pipe_low
+    3300012: door_low_levier_low
+    3300014: door_low_mid_frame_low
+    3300016: door_low_plate_pied_low
+    3300018: door_low_top_door_low
+    3300020: door_low_top_pipe_low
+    3300022: door_low_wall_low
+    3300024: top_low_door_low
+    4300000: door_low_bottom_door_low
+    4300002: door_low_commande_door_low
+    4300004: door_low_commande_low
+    4300006: door_low_commande_support_low
+    4300008: door_low_frame_low
+    4300010: door_low_front_pipe_low
+    4300012: door_low_levier_low
+    4300014: door_low_mid_frame_low
+    4300016: door_low_plate_pied_low
+    4300018: door_low_top_door_low
+    4300020: door_low_top_pipe_low
+    4300022: door_low_wall_low
+    4300024: top_low_door_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

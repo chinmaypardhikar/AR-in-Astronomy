@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e30b0b45128f41c4390e412c30275f4e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arc001_LP
+    100002: Blind_Front_LP
+    100004: Box002_LP
+    100006: Canos_LP
+    100008: Cylinder001_LP
+    100010: Cylinder013_LP
+    100012: Cylinder017_LP
+    100014: Line001_LP
+    100016: Line002_LP
+    100018: //RootNode
+    100020: Object001_LP
+    100022: Placas_LP
+    100024: Plane015_LP
+    100026: Plane016_LP
+    100028: Plane017_LP
+    100030: Plane018_LP
+    100032: Plane019_LP
+    100034: Plane020_LP
+    400000: Arc001_LP
+    400002: Blind_Front_LP
+    400004: Box002_LP
+    400006: Canos_LP
+    400008: Cylinder001_LP
+    400010: Cylinder013_LP
+    400012: Cylinder017_LP
+    400014: Line001_LP
+    400016: Line002_LP
+    400018: //RootNode
+    400020: Object001_LP
+    400022: Placas_LP
+    400024: Plane015_LP
+    400026: Plane016_LP
+    400028: Plane017_LP
+    400030: Plane018_LP
+    400032: Plane019_LP
+    400034: Plane020_LP
+    2100000: Body
+    2100002: Nucleo
+    2100004: Helices
+    2100006: Pas_Frontais
+    2100008: Pistoes
+    2100010: Presilhas_Asa_Inf
+    2100012: Presilhas_Asa_Sup
+    2100014: Asa
+    2100016: Parafusos
+    2100018: Novo
+    2100020: Canos
+    2100022: Blndagem_Cabine
+    2300000: Arc001_LP
+    2300002: Blind_Front_LP
+    2300004: Box002_LP
+    2300006: Canos_LP
+    2300008: Cylinder001_LP
+    2300010: Cylinder013_LP
+    2300012: Cylinder017_LP
+    2300014: Line001_LP
+    2300016: Line002_LP
+    2300018: Object001_LP
+    2300020: Placas_LP
+    2300022: Plane015_LP
+    2300024: Plane016_LP
+    2300026: Plane017_LP
+    2300028: Plane018_LP
+    2300030: Plane019_LP
+    2300032: Plane020_LP
+    3300000: Arc001_LP
+    3300002: Blind_Front_LP
+    3300004: Box002_LP
+    3300006: Canos_LP
+    3300008: Cylinder001_LP
+    3300010: Cylinder013_LP
+    3300012: Cylinder017_LP
+    3300014: Line001_LP
+    3300016: Line002_LP
+    3300018: Object001_LP
+    3300020: Placas_LP
+    3300022: Plane015_LP
+    3300024: Plane016_LP
+    3300026: Plane017_LP
+    3300028: Plane018_LP
+    3300030: Plane019_LP
+    3300032: Plane020_LP
+    4300000: Box002_LP
+    4300002: Cylinder001_LP
+    4300004: Plane019_LP
+    4300006: Plane018_LP
+    4300008: Plane017_LP
+    4300010: Plane016_LP
+    4300012: Plane015_LP
+    4300014: Plane020_LP
+    4300016: Object001_LP
+    4300018: Cylinder017_LP
+    4300020: Line002_LP
+    4300022: Line001_LP
+    4300024: Arc001_LP
+    4300026: Cylinder013_LP
+    4300028: Placas_LP
+    4300030: Canos_LP
+    4300032: Blind_Front_LP
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

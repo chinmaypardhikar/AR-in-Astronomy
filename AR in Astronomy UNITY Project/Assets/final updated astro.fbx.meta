@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 075ed523a9f98f846b90820df42db5ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 00KOSMONAFT
+    100002: 00KOSMONAFT.001
+    100004: 00KOSMONAFT.002
+    100006: 00KOSMONAFT.003
+    100008: 00KOSMONAFT.004
+    100010: 00KOSMONAFT.005
+    100012: 00KOSMONAFT.006
+    100014: 00KOSMONAFT.007
+    100016: 00KOSMONAFT.008
+    100018: 00KOSMONAFT.009
+    100020: 00KOSMONAFT.010
+    100022: 00KOSMONAFT.011
+    100024: 00KOSMONAFT.012
+    100026: 00KOSMONAFT.013
+    100028: 00KOSMONAFT.014
+    100030: //RootNode
+    400000: 00KOSMONAFT
+    400002: 00KOSMONAFT.001
+    400004: 00KOSMONAFT.002
+    400006: 00KOSMONAFT.003
+    400008: 00KOSMONAFT.004
+    400010: 00KOSMONAFT.005
+    400012: 00KOSMONAFT.006
+    400014: 00KOSMONAFT.007
+    400016: 00KOSMONAFT.008
+    400018: 00KOSMONAFT.009
+    400020: 00KOSMONAFT.010
+    400022: 00KOSMONAFT.011
+    400024: 00KOSMONAFT.012
+    400026: 00KOSMONAFT.013
+    400028: 00KOSMONAFT.014
+    400030: //RootNode
+    2100000: Material.001
+    2100002: details
+    2100004: socks
+    2100006: Material.002
+    2100008: Material.005
+    2100010: hands
+    2100012: body
+    2100014: Material.004
+    2100016: oxygen
+    2100018: elbow
+    2100020: belt
+    2100022: pants
+    2100024: details2
+    2300000: 00KOSMONAFT
+    2300002: 00KOSMONAFT.001
+    2300004: 00KOSMONAFT.002
+    2300006: 00KOSMONAFT.003
+    2300008: 00KOSMONAFT.004
+    2300010: 00KOSMONAFT.005
+    2300012: 00KOSMONAFT.006
+    2300014: 00KOSMONAFT.007
+    2300016: 00KOSMONAFT.008
+    2300018: 00KOSMONAFT.009
+    2300020: 00KOSMONAFT.010
+    2300022: 00KOSMONAFT.011
+    2300024: 00KOSMONAFT.012
+    2300026: 00KOSMONAFT.013
+    2300028: 00KOSMONAFT.014
+    3300000: 00KOSMONAFT
+    3300002: 00KOSMONAFT.001
+    3300004: 00KOSMONAFT.002
+    3300006: 00KOSMONAFT.003
+    3300008: 00KOSMONAFT.004
+    3300010: 00KOSMONAFT.005
+    3300012: 00KOSMONAFT.006
+    3300014: 00KOSMONAFT.007
+    3300016: 00KOSMONAFT.008
+    3300018: 00KOSMONAFT.009
+    3300020: 00KOSMONAFT.010
+    3300022: 00KOSMONAFT.011
+    3300024: 00KOSMONAFT.012
+    3300026: 00KOSMONAFT.013
+    3300028: 00KOSMONAFT.014
+    4300000: 00KOSMONAFT.014
+    4300002: 00KOSMONAFT.013
+    4300004: 00KOSMONAFT.012
+    4300006: 00KOSMONAFT.011
+    4300008: 00KOSMONAFT.010
+    4300010: 00KOSMONAFT.009
+    4300012: 00KOSMONAFT.008
+    4300014: 00KOSMONAFT.007
+    4300016: 00KOSMONAFT.006
+    4300018: 00KOSMONAFT.005
+    4300020: 00KOSMONAFT.004
+    4300022: 00KOSMONAFT.003
+    4300024: 00KOSMONAFT.002
+    4300026: 00KOSMONAFT.001
+    4300028: 00KOSMONAFT
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
