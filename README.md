@@ -39,15 +39,4 @@ when click on kalpana chawala frame then it shows the 3d model of kalpana chawal
 The space mission videos help users to understand the historic missions ever led by the mankind & its importance. It includes many important missions like Apollo mission, Cassini, Voyager, etc. These missions are explained with a engaging video and rendered 3d models of the spacecraft
 <img src="Images\space.png">
 
-# Initial Implementation
-
-The Solar system Tour,  Explore Solar System and Spacecrafts were initially developed in the application.
-
-# Improvements made in last 24 hours for Hackverse 2.0
-
-Implementation of a complete interactive spacewalk.
-Implementation of a Grand Virtual Hall of Fame for astronauts.
-Implementation of Xplore Web Platform using echoAR.
-Implementation of a AR jigsaw puzzle app.
-Adding Library for space books and movies.
  
